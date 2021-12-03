@@ -1,5 +1,5 @@
 # webservices-atividade-ajax
-## _Web Services – 	_JavaScript e AJAX_
+## _Web Services – JavaScript e AJAX_
 
 Implemente uma página web que possua um campo de texto para o usuário digitar o nome de uma
 cidade e um botão para iniciar a requisição. Ao clicar no mesmo, deverá ser realizada uma consulta à API de
