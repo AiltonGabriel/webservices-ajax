@@ -29,7 +29,7 @@ function getWeather(city) {
         }
 
     };
-    xhttp.open("GET", "https://api.openweathermap.org/data/2.5/weather?q=" + city + "&units=metric&lang=pt_br&appid=323c712fe8bb40a5a669d8f20a32c13b", true);
+    xhttp.open("GET", "http://api.openweathermap.org/data/2.5/weather?q=" + city + "&units=metric&lang=pt_br&appid=323c712fe8bb40a5a669d8f20a32c13b", true);
     xhttp.send();
 }
 
