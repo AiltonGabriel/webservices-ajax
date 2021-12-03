@@ -9,4 +9,5 @@ previsão do tempo do site OpenWeatherMap, e exibido na página:
 * O horário do nascimento e do pôr do sol (converter os timestamps);
 * As coordenadas geográficas e a altura da cidade em relação ao nível do mar;
 * Um mapa do Google posicionado nas coordenadas da cidade.
+
 Dica: para controlar o ciclo de vida da requisição AJAX, pesquise sobre o método onreadystatechange.
